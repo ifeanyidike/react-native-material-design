@@ -1,0 +1,12 @@
+{
+  "name": "materialdesign",
+  "displayName": "materialdesign",
+  "expo": {
+    "name": "materialdesign",
+    "slug": "materialdesign",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
